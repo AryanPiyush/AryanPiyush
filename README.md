@@ -1,5 +1,5 @@
-<h1 align="center">Aryan Piyush</h1>
-<h3 align="center">" "</h3>
+<h1 align="center">Hi this is Aryan Piyush a final year student pursuing Electronic and communication at Manipal University Jaipur looking for a responsible position to gain practical experience</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
