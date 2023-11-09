@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Piyush</h1>
+<h1 align="center">Hi  Aryan Piyush</h1>
 <h3 align="center">"Electronics & Communication Engineering | VLSI Enthusiast | Crafting Efficient Solutions with C++ and Data Structures | Exploring the Depths of Chip Design | 4th Year 🚀"</h3>
 
 <h3 align="left">Connect with me:</h3>
